@@ -47,4 +47,11 @@ a:hover{
     border: none;
     cursor: pointer;
     border-radius: 5px;
-}  
+}
+
+.dws-submit:hover{
+    transition: all 0.5s;
+    background: rgb(39, 39, 39);
+    color: #ffffff;
+}    
+
