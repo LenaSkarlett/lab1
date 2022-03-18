@@ -29,3 +29,22 @@ input[type="text"],input[type="password"]{
     border-radius: 5px;
     padding-left: 10px;
 }
+
+a{
+    color: rgb(168, 167, 167);
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+.dws-submit {
+    padding: 14px 105px;
+    margin: 5px 0 20px 0;
+    font-size: 16px;
+    color: #fff;
+    background-color: #68548a;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}  
